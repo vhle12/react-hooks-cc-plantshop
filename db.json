@@ -37,10 +37,10 @@
       "price": 25.99
     },
     {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "name": "Bob Ross",
+      "image": "https://www.chia.com/wp-content/uploads/2023/04/NDOMJE00493-0-NS-Bob-Ross-Chia-Pet_06.png",
+      "price": "20000",
+      "id": 7
     }
   ]
 }
